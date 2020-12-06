@@ -1,2 +1,2 @@
 # S-Music-Player
-This is a music player made using TKinter and Pygame.
+A music player made using TKinter and Pygame to play your favourite songs.
